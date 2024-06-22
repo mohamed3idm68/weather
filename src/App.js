@@ -1,5 +1,6 @@
 import { Component } from "react";
 import "./App.css";
+import "./index.css"
 import Form from "./componants/Form";
 import WeatherComp from "./componants/WeatherComp";
 
